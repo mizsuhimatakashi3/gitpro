@@ -1,1 +1,2 @@
 test line miz1
+test line miz2
