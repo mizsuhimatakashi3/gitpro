@@ -1,3 +1,0 @@
-text5 line1
-text5 line2 branch shcool1
-text5 line3 branch school3

@@ -1,4 +1,0 @@
-text3 lien1
-text3 line2 branch shcool1
-text3 line3 branch school3
-
