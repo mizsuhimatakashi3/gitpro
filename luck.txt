@@ -2,4 +2,8 @@ lucky strike!
 second luck.
 mato edit
 こんにちわです
+<<<<<<< HEAD
 event conflict a
+=======
+event b
+>>>>>>> second
