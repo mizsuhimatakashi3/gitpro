@@ -1,4 +1,10 @@
 lucky strike!
 second luck.
 mato edit
+<<<<<<< HEAD
 こんにちわです
+=======
+edit luck now
+tekitou desita
+お元気ですかあ？
+>>>>>>> 16188055dc36ef4bbb51d734df71825d29462e22
