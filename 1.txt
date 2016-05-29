@@ -1,2 +1,0 @@
-text1 line1
-text1 line2 branch shcool1
