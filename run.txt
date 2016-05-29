@@ -1,7 +1,1 @@
-stream today
-<<<<<<< HEAD
-second 1414
-master 1427
-=======
-yar line
->>>>>>> yar
+new file1
